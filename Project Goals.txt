@@ -1,0 +1,9 @@
+Project Goals:
+- Get comfortable constructing custom neural network architectures in
+Tensorflow
+- Learn to define custom cost functions in Tensorflow
+- Be able to implement models and methods described in academic papers
+on my own, for my own interest
+- Build a RBM and learn a generative model
+- Generate reconstructions that are accurate representations
+- Achieve something awesome
